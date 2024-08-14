@@ -1,4 +1,4 @@
-<!-- Improved compatibility of back-to-top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
+<!-- TOP OF THE PAGE LINK -->
 <a id="readme-top"></a>
 
 # Guess Blitz / A Game of Numbers
