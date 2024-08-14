@@ -14,5 +14,5 @@ This is a simple image gallery-themed slider that contains toggleable sections w
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [Pug.js]: https://img.shields.io/badge/Pug-EFCCA3?style=for-the-badge&logo=pug&logoColor=56332B
 [Pug-url]: https://pugjs.org/
-[Scss.css]: https://img.shields.io/badge/Scss-20232A?style=for-the-badge&logo=sass&logoColor=CC6699
+[Scss.css]: https://img.shields.io/badge/Scss-F8F9FA?style=for-the-badge&logo=sass&logoColor=CC6699
 [Scss-url]: https://sass-lang.com/
