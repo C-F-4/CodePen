@@ -6,7 +6,7 @@
 A simple retro-style game where the computer guesses a number in a limit and the player has to guess the same in the least amount of tries.
 
 ### Built with:
-[![Pug.js][Pug.js]][Pug-url]  [![SCSS][Scss.css]][Scss-url]  [![React.js][React.js]][React-url]
+[![Pug.js][Pug.js]][Pug-url]  [![SCSS][Scss.css]][Scss-url]  [![React.js][React.js]][React-url]  [![Babel.js][Babel.js]][Babel-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -18,3 +18,5 @@ A simple retro-style game where the computer guesses a number in a limit and the
 [Scss-url]: https://sass-lang.com/
 [React.js]: https://img.shields.io/badge/React-23272F?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
+[Babel.js]: https://img.shields.io/badge/Babel-3B3C38?style=for-the-badge&logo=babel&logoColor=F9DC3E
+[Babel-url]: https://babeljs.io/
