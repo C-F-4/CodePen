@@ -1,12 +1,12 @@
 <!-- TOP OF THE PAGE LINK -->
 <a id="readme-top"></a>
 
-# Neuomorph Template - [Chrome Experiment]
+# Caminar Material Blog Template - [PureCSS]
 
-This is an experiment combining the dark theme design pattern and neumorphically designed ui/ux which is meant to be soft on the eyes. It calls for minimal color contrast and very few pops of color.
+Caminar is a minimal blog site template built with handlebars and inspired from material design.
 
 ### Built with:
-[![Pug.js][Pug.js]][Pug-url]  [![SCSS][Scss.css]][Scss-url]
+[![Pug.js][Pug.js]][Pug-url]  [![CSS][Css.css]][Css-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -14,5 +14,5 @@ This is an experiment combining the dark theme design pattern and neumorphically
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [Pug.js]: https://img.shields.io/badge/Pug-EFCCA3?style=for-the-badge&logo=pug&logoColor=56332B
 [Pug-url]: https://pugjs.org/
-[Scss.css]: https://img.shields.io/badge/Scss-F8F9FA?style=for-the-badge&logo=sass&logoColor=CC6699
-[Scss-url]: https://sass-lang.com/
+[Css.css]: https://img.shields.io/badge/Css3-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF
+[Css-url]: https://www.w3.org/Style/CSS/Overview.en.html
