@@ -1,9 +1,9 @@
 <!-- TOP OF THE PAGE LINK -->
 <a id="readme-top"></a>
 
-# Full Page Banner - [PureCSS Component] [Animated Blobs]
+# Services Listing Template - [Flex Responsive]
 
-A pen containing all the variations of the old-school banner component.
+This is a demo site template of a service provider company that showcases the services they offer, and their company profile.
 
 ### Built with:
 [![Pug.js][Pug.js]][Pug-url]  [![SCSS][Scss.css]][Scss-url]
