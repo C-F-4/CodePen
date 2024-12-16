@@ -1,9 +1,9 @@
 <!-- TOP OF THE PAGE LINK -->
 <a id="readme-top"></a>
 
-# Neuomorph Template - [Chrome Experiment]
+# Card Catalog - [PureCSS] [Component]
 
-This is an experiment combining the dark theme design pattern and neumorphically designed ui/ux which is meant to be soft on the eyes. It calls for minimal color contrast and very few pops of color.
+Simple Minimal Material Card Layout designed using css flexbox.
 
 ### Built with:
 [![Pug.js][Pug.js]][Pug-url]  [![SCSS][Scss.css]][Scss-url]
