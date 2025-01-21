@@ -1,9 +1,9 @@
 <!-- TOP OF THE PAGE LINK -->
 <a id="readme-top"></a>
 
-# Tic Tac Toe
+# Components - BEM - React
 
-A simple two-player pass-and-play style Tic Tac Toe game built with React.
+This demonstrates all the React features powered with a supercharged SCSS + BEM while showcasing Accessible Components designed using a Mobile-first approach.
 
 ### Built with:
 [![Pug.js][Pug.js]][Pug-url]  [![SCSS][Scss.css]][Scss-url]  [![React.js][React.js]][React-url]  [![Babel.js][Babel.js]][Babel-url]
